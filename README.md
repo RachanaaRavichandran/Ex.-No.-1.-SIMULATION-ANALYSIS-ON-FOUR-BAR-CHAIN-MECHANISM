@@ -55,7 +55,8 @@
 ## Output:
 <img width="1048" height="635" alt="Screenshot 2026-03-13 173536" src="https://github.com/user-attachments/assets/90a16307-2f07-4802-9443-5fe4f4e1713a" />
 
-<img width="1074" height="715" alt="Screenshot 2026-03-13 173553" src="https://github.com/user-attachments/assets/c0d6d478-7417-4db1-b57e-b0e15d238b19" />
+<img width="915" height="473" alt="image" src="https://github.com/user-attachments/assets/7c40dee3-ba0d-41f8-a3d6-8f22657e87ae" />
+
 
 
 ### Name:R.Rachanaa
